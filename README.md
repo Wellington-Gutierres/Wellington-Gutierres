@@ -9,7 +9,7 @@ Sou um entusiasta da tecnologia, especialmente focado em criar soluções inovad
 
 Ao longo do tempo, explorei diversas tecnologias. Algumas das minhas favoritas incluem:
 
-- Front-end: HTML, CSS, JavaScript
+- Front-end: HTML, CSS
 - Back-end: PHP, MySQL
 - Ferramentas: Git, VSCode
 ## Como Contribuir
