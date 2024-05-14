@@ -1,6 +1,6 @@
 # Bem-vindo ao Repositório de Wellington
 
-Olá, seja bem-vindo ao meu espaço no GitHub! Me chamo Wellington e sou apaixonado por programação web. Este repositório é o lugar onde compartilho meus projetos, códigos e experimentos relacionados ao vasto mundo do desenvolvimento web.
+Olá, seja bem-vindo ao meu espaço no GitHub! Me chamo Wellington e estou começando programação web. Este repositório é o lugar onde compartilho meus projetos, códigos e experimentos relacionados ao vasto mundo do desenvolvimento web.
 
 ## Sobre Mim
 
